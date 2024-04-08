@@ -1,5 +1,4 @@
-# zilin's User page
-
+# This is my favorite Programming language: C#
 # Lab 1 project
 
 _zilin liu, A17691286_
